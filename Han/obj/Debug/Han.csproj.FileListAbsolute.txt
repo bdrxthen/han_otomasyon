@@ -1,0 +1,29 @@
+C:\Users\User\Desktop\Proje\Han\Han\obj\Debug\Han.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Proje\Han\Han\obj\Debug\Han.Anasayfa.resources
+C:\Users\User\Desktop\Proje\Han\Han\obj\Debug\Han.Giris.resources
+C:\Users\User\Desktop\Proje\Han\Han\obj\Debug\Han.Properties.Resources.resources
+C:\Users\User\Desktop\Proje\Han\Han\obj\Debug\Han.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Proje\Han\Han\obj\Debug\Han.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Proje\Han\Han\bin\Debug\Han.exe.config
+C:\Users\User\Desktop\Proje\Han\Han\bin\Debug\Han.exe
+C:\Users\User\Desktop\Proje\Han\Han\bin\Debug\Han.pdb
+C:\Users\User\Desktop\Proje\Han\Han\obj\Debug\Han.exe
+C:\Users\User\Desktop\Proje\Han\Han\obj\Debug\Han.pdb
+C:\Users\User\Desktop\Proje\Han\Han\obj\Debug\Han.Guncelle.resources
+C:\Users\User\Desktop\Proje\Han\Han\obj\Debug\Han.Hesapla.resources
+C:\Users\User\Desktop\Proje\Han\Han\obj\Debug\Han.Kullanici.resources
+C:\Users\User\Desktop\Proje\Han\Han\obj\Debug\Han.VeriDepo.resources
+C:\Users\User\Desktop\Proje\Han\Han\bin\Debug\Taha.mdb
+C:\Users\User\Desktop\Proje\Han Orjinal Otomasyon\Han\bin\Debug\Taha.mdb
+C:\Users\User\Desktop\Proje\Han Orjinal Otomasyon\Han\obj\Debug\Han.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Proje\Han Orjinal Otomasyon\Han\obj\Debug\Han.Anasayfa.resources
+C:\Users\User\Desktop\Proje\Han Orjinal Otomasyon\Han\obj\Debug\Han.Giris.resources
+C:\Users\User\Desktop\Proje\Han Orjinal Otomasyon\Han\obj\Debug\Han.Guncelle.resources
+C:\Users\User\Desktop\Proje\Han Orjinal Otomasyon\Han\obj\Debug\Han.Hesapla.resources
+C:\Users\User\Desktop\Proje\Han Orjinal Otomasyon\Han\obj\Debug\Han.Kullanici.resources
+C:\Users\User\Desktop\Proje\Han Orjinal Otomasyon\Han\obj\Debug\Han.Properties.Resources.resources
+C:\Users\User\Desktop\Proje\Han Orjinal Otomasyon\Han\obj\Debug\Han.VeriDepo.resources
+C:\Users\User\Desktop\Proje\Han Orjinal Otomasyon\Han\obj\Debug\Han.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Proje\Han Orjinal Otomasyon\Han\obj\Debug\Han.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Proje\Han Orjinal Otomasyon\Han\obj\Debug\Han.exe
+C:\Users\User\Desktop\Proje\Han Orjinal Otomasyon\Han\obj\Debug\Han.pdb
